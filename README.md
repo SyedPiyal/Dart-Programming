@@ -1,16 +1,7 @@
-# code_practice
+# BeeCrowd Dart Solutions
 
-A new Flutter project.
+Welcome to the BeeCrowd Dart Solutions repository! Here you'll find my solutions to various programming challenges hosted on BeeCrowd, implemented in Dart programming language.
 
-## Getting Started
+## About BeeCrowd
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+BeeCrowd is an online platform for practicing competitive programming, offering a wide range of algorithmic challenges across different difficulty levels. This repository serves as a collection of my solutions to these challenges, providing insights into Dart programming techniques and algorithms.
