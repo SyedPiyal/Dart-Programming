@@ -7,11 +7,11 @@ void main() {
   List<int> nums = [1, 3, 5, 6];
   int target = 5;
 
-  int result = seachPosition(nums, target);
+  int result = searchPosition(nums, target);
   print(result);
 }
 
-int seachPosition(List<int> list, int target) {
+int searchPosition(List<int> list, int target) {
   int start = 0;
   int end = list.length - 1;
 
