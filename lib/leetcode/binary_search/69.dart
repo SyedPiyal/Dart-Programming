@@ -3,7 +3,7 @@
 /// Sqrt(x)
 ///
 void main() {
-  int x = 4;
+  int x = 15;
   int result = findSqrt(x);
   print(result);
 }
@@ -23,5 +23,5 @@ int findSqrt(x) {
     }
   }
 
-  return x;
+  return high;
 }
